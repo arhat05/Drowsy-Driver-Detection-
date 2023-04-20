@@ -1,4 +1,4 @@
-# Drowsy-Driver-Detection-
+# Drowsy-Driver-Detection
 Utilizes a Kaggle dataset of facial images, machine learning and convolutional neural networks to determine if an image displays a potential drowsy driver
 
 ## All Project Information is in the poster and in attached demo video
